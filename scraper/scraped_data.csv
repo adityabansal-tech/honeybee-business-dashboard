@@ -1,0 +1,551 @@
+business_name,category,city,address,phone,source
+Isaac Motors,Automobile Repair,Delhi,"43/321, Chahal Circle, Delhi",+91 7731428289,Sulekha
+Pahal Beauty Parlour,Salon & Spa,Jaipur,"H.No. 133, Bala Circle, Jaipur",,Google Maps
+Rushil Kirana Store,Grocery Store,Hyderabad,"794, Dutta Nagar, Hyderabad",+91 9129581426,Justdial
+Oak General Store,Grocery Store,Ahmedabad,"H.No. 23, Chaudry Path, Ahmedabad",+91 7523165392,Justdial
+George Medical Center,Clinic,Bengaluru,"H.No. 559, Bassi Road, Bengaluru",+91 8244922676,Justdial
+Yadav Realty,Real Estate Agency,Kolkata,"H.No. 618, Pathak Road, Kolkata",+91 8757126361,Justdial
+Boase Unisex Salon,Salon & Spa,Jaipur,"H.No. 341, Chaudhuri Ganj, Jaipur",+91 9308719116,Google Maps
+Mall Auto Works,Automobile Repair,Hyderabad,"52, Pant Path, Hyderabad",+91 9839223238,Justdial
+Loke Clinic,Clinic,Ahmedabad,"19/283, Shere Street, Ahmedabad",+91 7686597841,Justdial
+Ladli Chemist,Pharmacy,Delhi,"83/503, Mutti Nagar, Delhi",+91 7535470589,Justdial
+Nandini Healthcare,Clinic,Jaipur,"H.No. 395, Tata Ganj, Jaipur",+91 9517617331,Google Maps
+Shanker Properties,Real Estate Agency,Mumbai,"423, Yohannan Circle, Mumbai",+91 7691384341,Sulekha
+Sangha Fitness Studio,Gym & Fitness Center,Hyderabad,"65/32, Tak Circle, Hyderabad",+91 9106470142,Google Maps
+Gavin Healthcare,Clinic,Bengaluru,"H.No. 226, Bhatt, Bengaluru",+91 7860986622,Justdial
+Raj Photography,Photography Studio,Lucknow,"78/48, Contractor Nagar, Lucknow",+91 7453276784,Justdial
+Amara Spa,Salon & Spa,Mumbai,"H.No. 462, Aggarwal Chowk, Mumbai",+91 9595499192,Justdial
+Tella Coaching Classes,Coaching Center,Delhi,"814, Issac Circle, Delhi",+91 8533779352,Justdial
+Michael Tools & Hardware,Hardware Store,Mumbai,"880, Naik, Mumbai",+91 8114624621,Justdial
+Bahl Bakery,Bakery,Bengaluru,"H.No. 543, Khosla Nagar, Bengaluru",+91 9869944522,Sulekha
+Farhan Tea Point,Cafe,Bengaluru,"71/822, Gandhi Chowk, Bengaluru",+91 9093776540,Sulekha
+Wable General Store,Grocery Store,Bengaluru,"63/83, Rastogi Road, Bengaluru",+91 9551479514,Google Maps
+Sarma Academy,Coaching Center,Kolkata,"71/33, Nigam Zila, Kolkata",+91 8189450306,Google Maps
+Ansh Kitchen,Restaurant,Hyderabad,"30/10, Bir Ganj, Hyderabad",+91 9673919071,Sulekha
+Azad Tea Point,Cafe,Bengaluru,"H.No. 834, Kala Chowk, Bengaluru",+91 8801531643,Justdial
+Solanki Hardware,Hardware Store,Lucknow,"763, Chatterjee Zila, Lucknow",+91 9474836365,Sulekha
+Pandya Medical Center,Clinic,Pune,"67, Chaudhari Nagar, Pune",+91 8479425860,Google Maps
+Rau General Store,Grocery Store,Delhi,"51/333, Sen Circle, Delhi",+91 7754087128,Google Maps
+Logan Restaurant,Restaurant,Delhi,"473, Savant Zila, Delhi",,Google Maps
+Guneet Estates,Real Estate Agency,Kolkata,"80/132, Sunder Marg, Kolkata",+91 9192173624,Google Maps
+Kala Hardware,Hardware Store,Bengaluru,"02, Agate Marg, Bengaluru",+91 9646063354,Google Maps
+Lanka Unisex Salon,Salon & Spa,Delhi,"46, Sur Circle, Delhi",+91 8530317100,Sulekha
+Mohammed Garage,Automobile Repair,Delhi,"H.No. 30, Bhat, Delhi",+91 9623324322,Google Maps
+Bhandari General Store,Grocery Store,Hyderabad,"H.No. 978, Dugar Circle, Hyderabad",+91 7912770637,Google Maps
+Trivedi Estates,Real Estate Agency,Delhi,"H.No. 219, Keer Zila, Delhi",+91 9136980855,Google Maps
+Netra Beauty Parlour,Salon & Spa,Hyderabad,"39/90, Bumb, Hyderabad",+91 7700462565,Google Maps
+Oni Mobile Store,Electronics Store,Pune,"H.No. 43, Khare Path, Pune",+91 9569269638,Justdial
+Randhawa Bakery,Bakery,Jaipur,"475, Andra Zila, Jaipur",+91 7713317665,Sulekha
+Tara Chemist,Pharmacy,Jaipur,"H.No. 838, Deo Road, Jaipur",+91 7164386569,Justdial
+Ikshita Hardware,Hardware Store,Jaipur,"542, Mittal Chowk, Jaipur",+91 7262534356,Google Maps
+Abhiram Coaching Classes,Coaching Center,Delhi,"12/411, Dugal Circle, Delhi",+91 9917284668,Google Maps
+Anita Tutorials,Coaching Center,Lucknow,"35/34, Suresh Circle, Lucknow",+91 9154086503,Sulekha
+Behl Hardware,Hardware Store,Kolkata,"H.No. 640, Nath Nagar, Kolkata",+91 8029541285,Justdial
+Lala Cake Shop,Bakery,Bengaluru,"786, Andra Circle, Bengaluru",+91 9463719508,Google Maps
+Isaac Fashion,Clothing Store,Lucknow,"28/059, Divan Circle, Lucknow",+91 8657644760,Google Maps
+Qushi Studio,Photography Studio,Kolkata,"H.No. 450, Kade Path, Kolkata",+91 7516967433,Sulekha
+Zaid Chemist,Pharmacy,Chennai,"H.No. 86, Dubey, Chennai",+91 7981096951,Google Maps
+Gaba Studio,Photography Studio,Bengaluru,"602, Sabharwal Path, Bengaluru",+91 9432782512,Google Maps
+Yuvraj Healthcare,Clinic,Chennai,"160, Kapadia Chowk, Chennai",+91 9252793130,Justdial
+Sharma Hardware,Hardware Store,Ahmedabad,"H.No. 43, Bajwa Ganj, Ahmedabad",+91 8387946265,Google Maps
+Reyansh Dhaba,Restaurant,Kolkata,"H.No. 41, Panchal Road, Kolkata",+91 8447882309,Sulekha
+Yashodhara Bakery,Bakery,Jaipur,"85/014, Lanka Street, Jaipur",,Sulekha
+Balvan Photography,Photography Studio,Bengaluru,"65/56, Vaidya, Bengaluru",+91 7485266333,Google Maps
+Rajan Kitchen,Restaurant,Chennai,"34/06, Venkatesh Nagar, Chennai",+91 7688399399,Google Maps
+Patla Motors,Automobile Repair,Delhi,"15, Murthy, Delhi",+91 8331691351,Sulekha
+Jeet Electronics,Electronics Store,Hyderabad,"46/56, Datta Road, Hyderabad",+91 7081233509,Sulekha
+Salvi Digital Studio,Photography Studio,Kolkata,"62/994, Acharya Marg, Kolkata",+91 9656642527,Justdial
+Mangat Electronics,Electronics Store,Delhi,"699, Shroff Path, Delhi",+91 7728836158,Justdial
+Riya Gym,Gym & Fitness Center,Chennai,"38/721, Varma Road, Chennai",,Google Maps
+Chander Bakery,Bakery,Kolkata,"433, Bakshi Street, Kolkata",+91 7914656025,Sulekha
+Konda Hardware,Hardware Store,Pune,"91, Sachdeva Chowk, Pune",+91 7855933405,Sulekha
+Robert Healthcare,Clinic,Mumbai,"63, Ahluwalia Street, Mumbai",+91 9387251114,Justdial
+Hredhaan Coaching Classes,Coaching Center,Jaipur,"287, Krish Nagar, Jaipur",+91 7622843386,Google Maps
+Jairaj Chemist,Pharmacy,Pune,"788, Nadig, Pune",+91 8764397900,Google Maps
+Saanvi Fitness Center,Gym & Fitness Center,Pune,"87, Soman Street, Pune",+91 9041951145,Sulekha
+Lad Estates,Real Estate Agency,Delhi,"487, Maharaj Ganj, Delhi",+91 8338252753,Justdial
+Ria Pharmacy,Pharmacy,Chennai,"43/455, Buch Circle, Chennai",+91 8242398777,Sulekha
+Dora Photography,Photography Studio,Bengaluru,"623, Sachdeva Zila, Bengaluru",+91 7001349829,Justdial
+Narayanan Supermarket,Grocery Store,Pune,"76/03, Ramachandran Marg, Pune",+91 9213838010,Sulekha
+Anmol Boutique,Clothing Store,Bengaluru,"05, Ramakrishnan Road, Bengaluru",+91 9074091167,Justdial
+Yohannan Spa,Salon & Spa,Hyderabad,"89/373, Sarin Road, Hyderabad",+91 7482813201,Google Maps
+Vedika Supermarket,Grocery Store,Ahmedabad,"56, Sibal Street, Ahmedabad",+91 9063685454,Google Maps
+Walla Medical Store,Pharmacy,Pune,"H.No. 699, Chacko Nagar, Pune",+91 9149710726,Google Maps
+Priya Cafe,Cafe,Pune,"20, Raghavan Road, Pune",+91 9280377889,Justdial
+Falak Kitchen,Restaurant,Jaipur,"55, Mall Marg, Jaipur",+91 9626070901,Sulekha
+Krishnan Tools & Hardware,Hardware Store,Jaipur,"H.No. 708, Palla Nagar, Jaipur",+91 9356976162,Justdial
+Biswas Realty,Real Estate Agency,Jaipur,"00/330, Dua, Jaipur",+91 8555468991,Justdial
+Date Tea Point,Cafe,Hyderabad,"19, Shroff Ganj, Hyderabad",+91 7783945992,Justdial
+Aahana Unisex Salon,Salon & Spa,Chennai,"991, Mukhopadhyay Street, Chennai",+91 9926280798,Google Maps
+Hritik Mobile Store,Electronics Store,Bengaluru,"H.No. 96, Issac Marg, Bengaluru",+91 9314738043,Google Maps
+Kibe Bake House,Bakery,Pune,"H.No. 491, Barman, Pune",+91 7204037110,Justdial
+Idika Bake House,Bakery,Lucknow,"51, Om Circle, Lucknow",+91 7019356105,Justdial
+Salvi Tea Point,Cafe,Pune,"16, Sharaf Path, Pune",+91 8789589069,Google Maps
+Saran Boutique,Clothing Store,Hyderabad,"849, Sule Circle, Hyderabad",+91 8274254057,Sulekha
+Udyati Garage,Automobile Repair,Pune,"94/531, Seshadri Road, Pune",+91 9039080008,Google Maps
+Yagnesh Studio,Photography Studio,Pune,"96/50, Nair Chowk, Pune",+91 7444670515,Google Maps
+Sura Dhaba,Restaurant,Chennai,"545, Majumdar Road, Chennai",+91 8071054236,Justdial
+Varughese Clinic,Clinic,Pune,"136, Khosla Chowk, Pune",+91 9454480702,Google Maps
+Vamakshi Fitness Center,Gym & Fitness Center,Hyderabad,"01, Kant Road, Hyderabad",,Google Maps
+Nidhi Kirana Store,Grocery Store,Hyderabad,"H.No. 95, Wali Chowk, Hyderabad",+91 7413672070,Sulekha
+Hemangini Beauty Parlour,Salon & Spa,Lucknow,"85/574, Krishnamurthy Road, Lucknow",+91 9512958351,Google Maps
+Vihaan Academy,Coaching Center,Lucknow,"35/182, Kalita Ganj, Lucknow",+91 7354285849,Google Maps
+Malhotra Photography,Photography Studio,Chennai,"98/941, Minhas Ganj, Chennai",+91 7649819961,Sulekha
+Utkarsh Chemist,Pharmacy,Hyderabad,"408, Mahal Street, Hyderabad",+91 9786299687,Sulekha
+Chakradev Coffee House,Cafe,Delhi,"42/71, Mane Nagar, Delhi",+91 9167658571,Google Maps
+Upasna Tools & Hardware,Hardware Store,Kolkata,"52, Krishnan Nagar, Kolkata",+91 7345866822,Justdial
+Vanya Garage,Automobile Repair,Ahmedabad,"H.No. 671, Bera, Ahmedabad",+91 8709695256,Justdial
+Dixit Coaching Classes,Coaching Center,Jaipur,"41/31, Saha Circle, Jaipur",+91 9395487656,Justdial
+Upkaar Fitness Studio,Gym & Fitness Center,Hyderabad,"77, Sanghvi Road, Hyderabad",+91 7799070910,Sulekha
+Bhasin Academy,Coaching Center,Pune,"13/34, Dugar Zila, Pune",+91 8065033834,Justdial
+Ghose Supermarket,Grocery Store,Kolkata,"12/06, Singhal Chowk, Kolkata",+91 8953446211,Sulekha
+Bishakha Kitchen,Restaurant,Jaipur,"447, Kaur Zila, Jaipur",+91 8331774038,Sulekha
+Hora Tea Point,Cafe,Hyderabad,"18, Dixit Ganj, Hyderabad",+91 8468512260,Google Maps
+Dhar Healthcare,Clinic,Hyderabad,"H.No. 024, Mani, Hyderabad",+91 9175686225,Justdial
+Dash Boutique,Clothing Store,Jaipur,"46, Tella Road, Jaipur",+91 8803553357,Justdial
+Sarma Medical Store,Pharmacy,Ahmedabad,"H.No. 906, Krishna Path, Ahmedabad",+91 7395335242,Justdial
+Atharv Spa,Salon & Spa,Jaipur,"990, Baria Road, Jaipur",+91 8586646241,Sulekha
+Singhal Academy,Coaching Center,Jaipur,"74/29, Swamy Marg, Jaipur",+91 7970739816,Justdial
+Gavin Digital World,Electronics Store,Chennai,"H.No. 65, Cheema Path, Chennai",+91 7898815965,Google Maps
+Naveen Tools & Hardware,Hardware Store,Chennai,"74, Bansal Marg, Chennai",+91 7040185243,Justdial
+Chakrabarti Boutique,Clothing Store,Ahmedabad,"H.No. 45, Raval Zila, Ahmedabad",+91 7168343092,Justdial
+Agarwal Beauty Parlour,Salon & Spa,Delhi,"87/603, Pathak Circle, Delhi",,Sulekha
+Wishi Auto Works,Automobile Repair,Mumbai,"H.No. 348, Mani Street, Mumbai",+91 7995621164,Google Maps
+Sundaram Spa,Salon & Spa,Jaipur,"H.No. 093, Mukhopadhyay Street, Jaipur",+91 8246469049,Justdial
+Reddy Medical Center,Clinic,Lucknow,"H.No. 317, Dube Zila, Lucknow",+91 7197389905,Sulekha
+Wishi Unisex Salon,Salon & Spa,Hyderabad,"46/77, Shan Ganj, Hyderabad",+91 7514641439,Google Maps
+Maanav Hardware,Hardware Store,Delhi,"982, Majumdar Zila, Delhi",+91 9258987832,Justdial
+Oeshi Medical Center,Clinic,Mumbai,"40/44, Suri, Mumbai",+91 9303569510,Google Maps
+Sekhon Motors,Automobile Repair,Hyderabad,"75/58, Purohit Circle, Hyderabad",+91 9634235928,Justdial
+Tamanna Spa,Salon & Spa,Jaipur,"396, Roy Ganj, Jaipur",+91 9708728643,Google Maps
+Nadkarni Diner,Restaurant,Bengaluru,"76/627, Date Nagar, Bengaluru",+91 8865147828,Justdial
+Narula Beauty Parlour,Salon & Spa,Ahmedabad,"H.No. 718, Aurora Chowk, Ahmedabad",+91 8639980776,Justdial
+Maanas Boutique,Clothing Store,Delhi,"21/745, Rao, Delhi",+91 8978242816,Google Maps
+Faris Unisex Salon,Salon & Spa,Hyderabad,"86/578, Biswas Nagar, Hyderabad",+91 9500532962,Justdial
+Mani Hardware,Hardware Store,Ahmedabad,"161, Sawhney Zila, Ahmedabad",+91 8428393202,Justdial
+Mistry Beauty Parlour,Salon & Spa,Ahmedabad,"H.No. 050, Parmer Road, Ahmedabad",+91 9195823710,Google Maps
+Sankar Fitness Studio,Gym & Fitness Center,Pune,"386, Gole, Pune",+91 8312282102,Google Maps
+Gill Boutique,Clothing Store,Delhi,"H.No. 969, Tank Ganj, Delhi",+91 9531462976,Sulekha
+Kata Properties,Real Estate Agency,Mumbai,"47, Andra Road, Mumbai",,Sulekha
+Mani Fitness Center,Gym & Fitness Center,Lucknow,"82/175, Mistry, Lucknow",+91 7169136680,Justdial
+Krishna Tools & Hardware,Hardware Store,Bengaluru,"43, Subramanian Marg, Bengaluru",+91 8588325915,Google Maps
+Hredhaan Motors,Automobile Repair,Lucknow,"95, Merchant, Lucknow",+91 8804911792,Sulekha
+Chakrika Bakery,Bakery,Delhi,"64/090, Taneja, Delhi",+91 7384994896,Google Maps
+Karpe Boutique,Clothing Store,Chennai,"53/39, Devan Road, Chennai",+91 8547341946,Justdial
+Baral Hardware,Hardware Store,Bengaluru,"H.No. 70, Patla, Bengaluru",+91 8665427892,Google Maps
+Chana Healthcare,Clinic,Pune,"H.No. 56, Iyer Street, Pune",+91 7008447072,Sulekha
+Zacharia Clinic,Clinic,Lucknow,"H.No. 88, Gala Road, Lucknow",+91 8587055236,Justdial
+Subramaniam Tools & Hardware,Hardware Store,Jaipur,"H.No. 51, Borra Chowk, Jaipur",+91 9849534727,Sulekha
+Kara General Store,Grocery Store,Lucknow,"68/516, Lalla Nagar, Lucknow",+91 8346015720,Justdial
+Sha Medical Store,Pharmacy,Ahmedabad,"H.No. 49, Prabhu Marg, Ahmedabad",+91 9596595461,Google Maps
+Hritik Garments,Clothing Store,Mumbai,"09, Narang Circle, Mumbai",+91 8087823154,Justdial
+Bhatnagar Salon,Salon & Spa,Jaipur,"74/612, Barad Nagar, Jaipur",+91 8343495823,Google Maps
+Tailor Unisex Salon,Salon & Spa,Ahmedabad,"H.No. 138, Rama Street, Ahmedabad",+91 8302495175,Google Maps
+Prabhakar Properties,Real Estate Agency,Kolkata,"86/926, Suri Zila, Kolkata",+91 9907973956,Sulekha
+Nikita Restaurant,Restaurant,Lucknow,"H.No. 537, Keer Chowk, Lucknow",+91 7941639817,Sulekha
+Janani Salon,Salon & Spa,Pune,"58/506, Gupta Road, Pune",+91 9274149251,Google Maps
+Jason Dhaba,Restaurant,Kolkata,"H.No. 390, Nath Nagar, Kolkata",+91 8411229080,Google Maps
+Yagnesh Hardware,Hardware Store,Pune,"31/83, Kalita, Pune",+91 8997160140,Sulekha
+Narasimhan Motors,Automobile Repair,Hyderabad,"904, De Street, Hyderabad",+91 8511093611,Justdial
+Zashil Boutique,Clothing Store,Chennai,"H.No. 020, Khanna Path, Chennai",+91 9220381643,Google Maps
+Babu Unisex Salon,Salon & Spa,Ahmedabad,"402, Vora Marg, Ahmedabad",+91 8390342780,Justdial
+Ishaan Properties,Real Estate Agency,Chennai,"75, Chopra Circle, Chennai",+91 7349441091,Justdial
+Thakur Tutorials,Coaching Center,Kolkata,"908, Shanker Road, Kolkata",+91 9719896275,Justdial
+Azaan Healthcare,Clinic,Mumbai,"66, Swaminathan Zila, Mumbai",+91 9729047512,Google Maps
+Sachi Tutorials,Coaching Center,Kolkata,"H.No. 592, Date Zila, Kolkata",+91 7821298835,Sulekha
+Anvi Tea Point,Cafe,Bengaluru,"98, Setty Road, Bengaluru",+91 8012367779,Google Maps
+Yashasvi Academy,Coaching Center,Kolkata,"H.No. 183, Seth Marg, Kolkata",+91 8070564460,Google Maps
+Sachdev Kirana Store,Grocery Store,Bengaluru,"H.No. 76, Chandran Marg, Bengaluru",+91 7893031567,Justdial
+Sane Digital Studio,Photography Studio,Ahmedabad,"H.No. 45, Som Street, Ahmedabad",+91 9635325095,Justdial
+Ekalinga Beauty Parlour,Salon & Spa,Bengaluru,"H.No. 161, De Path, Bengaluru",+91 9636483048,Justdial
+Darpan Unisex Salon,Salon & Spa,Pune,"16/560, Muni Road, Pune",+91 8490258311,Sulekha
+Chawla Chemist,Pharmacy,Chennai,"83/27, Chokshi Ganj, Chennai",+91 7355098452,Google Maps
+Pillai Garments,Clothing Store,Mumbai,"H.No. 493, Bal Marg, Mumbai",+91 7207193283,Justdial
+Balakrishnan Studio,Photography Studio,Chennai,"445, Ahuja Path, Chennai",+91 7121949893,Justdial
+Pratyush Spa,Salon & Spa,Delhi,"61/20, Wali Zila, Delhi",+91 8215797881,Sulekha
+Puri Chemist,Pharmacy,Jaipur,"75, Pingle Street, Jaipur",+91 7506364379,Sulekha
+Nair Unisex Salon,Salon & Spa,Ahmedabad,"91/02, Bawa Street, Ahmedabad",,Justdial
+Magar General Store,Grocery Store,Ahmedabad,"67, Sathe, Ahmedabad",+91 7325599873,Justdial
+Oeshi Tools & Hardware,Hardware Store,Kolkata,"815, Choudhry Marg, Kolkata",+91 7400269600,Google Maps
+Bhanumati Auto Works,Automobile Repair,Hyderabad,"40/36, Bhakta, Hyderabad",+91 7798126505,Sulekha
+Abhimanyu Kirana Store,Grocery Store,Delhi,"H.No. 32, Mann Road, Delhi",+91 9849840539,Justdial
+Falak Coffee House,Cafe,Bengaluru,"H.No. 762, Rai Street, Bengaluru",+91 7474127038,Sulekha
+Victor Healthcare,Clinic,Bengaluru,"51/60, Bahl Marg, Bengaluru",+91 7431811947,Justdial
+Brahmbhatt Cafe,Cafe,Hyderabad,"H.No. 96, Ravel, Hyderabad",+91 7171726614,Sulekha
+Omisha Bake House,Bakery,Jaipur,"H.No. 605, Sharma Street, Jaipur",,Justdial
+Janaki Coffee House,Cafe,Kolkata,"13, Rattan Marg, Kolkata",+91 9015515683,Sulekha
+Randhawa Coffee House,Cafe,Jaipur,"H.No. 53, Ganguly Path, Jaipur",+91 7102017972,Justdial
+Uppal Estates,Real Estate Agency,Pune,"18/835, Divan Path, Pune",+91 9334368138,Google Maps
+Chauhan Digital Studio,Photography Studio,Delhi,"432, Dua, Delhi",+91 7413546046,Sulekha
+Goel Garage,Automobile Repair,Lucknow,"77/997, Naidu, Lucknow",+91 8738548652,Justdial
+Dora Hardware,Hardware Store,Lucknow,"17, Mitter Chowk, Lucknow",+91 7374995814,Sulekha
+Anvi Photography,Photography Studio,Jaipur,"H.No. 81, Shenoy Road, Jaipur",+91 7748764239,Justdial
+Barad Properties,Real Estate Agency,Ahmedabad,"H.No. 541, Tripathi Zila, Ahmedabad",+91 8024165936,Justdial
+Shere Auto Works,Automobile Repair,Chennai,"80/79, Nagy Ganj, Chennai",+91 8554018799,Google Maps
+Vamakshi Properties,Real Estate Agency,Delhi,"071, Chad Path, Delhi",+91 9420858843,Google Maps
+Gera Hardware,Hardware Store,Mumbai,"H.No. 377, Virk Circle, Mumbai",+91 9862697207,Justdial
+Patla Estates,Real Estate Agency,Mumbai,"H.No. 46, Nigam Marg, Mumbai",+91 7339485748,Sulekha
+Natt General Store,Grocery Store,Bengaluru,"H.No. 518, Mander Marg, Bengaluru",+91 8147282910,Justdial
+Zayyan Beauty Parlour,Salon & Spa,Chennai,"H.No. 19, Palla Street, Chennai",+91 9514791490,Sulekha
+Dayita Motors,Automobile Repair,Jaipur,"914, Puri Circle, Jaipur",+91 9717945054,Google Maps
+Datta Mobile Store,Electronics Store,Chennai,"81/685, Patil Nagar, Chennai",+91 7594428776,Sulekha
+Dayamai Auto Works,Automobile Repair,Pune,"573, Devan Ganj, Pune",+91 7100422026,Sulekha
+Brahmbhatt Tools & Hardware,Hardware Store,Hyderabad,"H.No. 18, Vyas Circle, Hyderabad",+91 7515758503,Justdial
+Baljiwan Pharmacy,Pharmacy,Kolkata,"29/62, Golla Street, Kolkata",+91 9472190981,Google Maps
+Sarma Garage,Automobile Repair,Delhi,"H.No. 653, Mane Chowk, Delhi",+91 8591489570,Justdial
+Saumya Bake House,Bakery,Chennai,"34/73, Sastry Path, Chennai",+91 8408724534,Justdial
+Manda Motors,Automobile Repair,Lucknow,"88, Edwin Marg, Lucknow",+91 7148838903,Justdial
+Ryan Academy,Coaching Center,Mumbai,"H.No. 07, Chauhan Path, Mumbai",+91 7692127987,Justdial
+Zaitra Clinic,Clinic,Kolkata,"H.No. 12, Sengupta Road, Kolkata",+91 8411133028,Google Maps
+Yochana Bake House,Bakery,Jaipur,"13, Palla Chowk, Jaipur",+91 9189056421,Google Maps
+Sachdeva Bakery,Bakery,Mumbai,"H.No. 685, Raju Ganj, Mumbai",+91 7255151033,Sulekha
+Prasad Bake House,Bakery,Lucknow,"051, Dhingra Path, Lucknow",+91 7948625096,Justdial
+Laksh Diner,Restaurant,Kolkata,"H.No. 72, Sen Chowk, Kolkata",+91 9259757428,Google Maps
+Abdul Cake Shop,Bakery,Delhi,"H.No. 432, Wable Circle, Delhi",+91 8716920308,Justdial
+Choudhry Realty,Real Estate Agency,Chennai,"H.No. 34, Batta Zila, Chennai",+91 7550920011,Sulekha
+William Garage,Automobile Repair,Delhi,"97/117, Wason, Delhi",+91 9683594599,Google Maps
+Amol Supermarket,Grocery Store,Delhi,"32/46, Pandit Nagar, Delhi",+91 8973930036,Sulekha
+Saha Beauty Parlour,Salon & Spa,Bengaluru,"185, Vora Zila, Bengaluru",+91 9489985952,Justdial
+Tripathi Motors,Automobile Repair,Lucknow,"06/70, Prakash Marg, Lucknow",+91 8441018950,Justdial
+Babu Garments,Clothing Store,Chennai,"H.No. 15, Chawla Ganj, Chennai",,Sulekha
+Deol Beauty Parlour,Salon & Spa,Chennai,"H.No. 585, Shetty Street, Chennai",,Justdial
+Varenya Estates,Real Estate Agency,Chennai,"170, Jaggi Road, Chennai",+91 9802621835,Sulekha
+Iyengar Coaching Classes,Coaching Center,Jaipur,"H.No. 548, Solanki Marg, Jaipur",+91 9594615376,Justdial
+Zehaan Photography,Photography Studio,Lucknow,"34/505, Dash Road, Lucknow",+91 8642829773,Google Maps
+Sarkar Garments,Clothing Store,Delhi,"76, Grover Path, Delhi",+91 9117232617,Google Maps
+Tank Kirana Store,Grocery Store,Ahmedabad,"H.No. 84, Samra Zila, Ahmedabad",+91 7520157696,Justdial
+Sani Photography,Photography Studio,Chennai,"28/45, Buch Zila, Chennai",+91 9224688366,Google Maps
+Falak Coffee House,Cafe,Kolkata,"H.No. 79, Ganesan Marg, Kolkata",+91 9222960667,Justdial
+Sachi Medical Center,Clinic,Lucknow,"05, Saran, Lucknow",+91 9174528537,Justdial
+Anvi Healthcare,Clinic,Pune,"H.No. 658, Balasubramanian Street, Pune",+91 7277650577,Sulekha
+Luke Bake House,Bakery,Kolkata,"H.No. 213, Pathak Path, Kolkata",+91 9420899838,Sulekha
+Bali Salon,Salon & Spa,Pune,"27/55, Bose Chowk, Pune",+91 7590638074,Justdial
+Laksh Cafe,Cafe,Ahmedabad,"H.No. 65, Krish Road, Ahmedabad",+91 7507720114,Justdial
+Ishaan Estates,Real Estate Agency,Delhi,"27/868, Lala Zila, Delhi",+91 9511091006,Google Maps
+Abha Academy,Coaching Center,Pune,"947, Das Ganj, Pune",+91 9270391885,Google Maps
+Krishna Medical Store,Pharmacy,Ahmedabad,"27, Nagarajan Zila, Ahmedabad",+91 9357941133,Justdial
+Bhattacharyya Academy,Coaching Center,Chennai,"84/42, Pathak Street, Chennai",+91 8014071474,Google Maps
+Kapur Fitness Studio,Gym & Fitness Center,Lucknow,"H.No. 323, Bal Chowk, Lucknow",+91 9549760052,Sulekha
+Jalsa Hardware,Hardware Store,Pune,"82, Chadha, Pune",+91 7453542768,Google Maps
+More Motors,Automobile Repair,Ahmedabad,"78, Rout Marg, Ahmedabad",+91 9331177621,Google Maps
+Ethan Medical Center,Clinic,Delhi,"H.No. 17, Varughese Chowk, Delhi",+91 8682129313,Justdial
+Dave Unisex Salon,Salon & Spa,Hyderabad,"92/26, Bhakta Circle, Hyderabad",+91 8359516980,Justdial
+Jeet Tools & Hardware,Hardware Store,Kolkata,"422, Kar Path, Kolkata",+91 8228539430,Google Maps
+Venkataraman Gym,Gym & Fitness Center,Delhi,"H.No. 14, Maharaj Ganj, Delhi",+91 7940071925,Sulekha
+Mitter Properties,Real Estate Agency,Bengaluru,"81/82, Dube, Bengaluru",+91 9968320384,Google Maps
+Onveer Healthcare,Clinic,Hyderabad,"00/10, Lanka, Hyderabad",+91 8995179176,Justdial
+Shivansh Unisex Salon,Salon & Spa,Chennai,"07/84, Subramanian Road, Chennai",+91 7781365027,Sulekha
+Ravi Cafe,Cafe,Lucknow,"H.No. 71, Dugar Nagar, Lucknow",+91 9965975513,Sulekha
+Ria Hardware,Hardware Store,Mumbai,"73, Dhawan Path, Mumbai",+91 7005190584,Justdial
+Nagar General Store,Grocery Store,Lucknow,"56/258, Cherian Circle, Lucknow",+91 7280578614,Justdial
+Eiravati Beauty Parlour,Salon & Spa,Jaipur,"14, Kota Chowk, Jaipur",+91 7142693318,Justdial
+Lohit Fitness Studio,Gym & Fitness Center,Chennai,"H.No. 469, Kothari Marg, Chennai",+91 8129841604,Sulekha
+Narang Auto Works,Automobile Repair,Delhi,"53/27, Sibal Circle, Delhi",,Sulekha
+Morar Fitness Center,Gym & Fitness Center,Bengaluru,"01, Tiwari Marg, Bengaluru",+91 7597227675,Google Maps
+Tanvi Medical Store,Pharmacy,Ahmedabad,"950, Manda Nagar, Ahmedabad",+91 9592336144,Google Maps
+Singhal Fitness Center,Gym & Fitness Center,Chennai,"H.No. 80, Sankar Zila, Chennai",+91 7119994790,Google Maps
+Krish Healthcare,Clinic,Kolkata,"56/506, Hayer Nagar, Kolkata",+91 7407858237,Justdial
+Mani Photography,Photography Studio,Pune,"H.No. 687, Mammen Circle, Pune",+91 7612175038,Sulekha
+Dave Fashion,Clothing Store,Kolkata,"H.No. 655, Pau Circle, Kolkata",+91 7258666440,Sulekha
+Issac Properties,Real Estate Agency,Bengaluru,"86/80, Barad Nagar, Bengaluru",+91 8074596628,Justdial
+Nath Clinic,Clinic,Ahmedabad,"87, Varma Street, Ahmedabad",+91 8151968606,Google Maps
+Narang Medical Store,Pharmacy,Kolkata,"52/69, Nayar Road, Kolkata",+91 9593517518,Google Maps
+Upadhyay Motors,Automobile Repair,Pune,"79/47, Pillay Nagar, Pune",+91 9226230969,Google Maps
+Choudhary Electronics,Electronics Store,Lucknow,"94, Som Nagar, Lucknow",+91 7773394562,Justdial
+Alka Fitness Center,Gym & Fitness Center,Pune,"09/728, Rai, Pune",+91 8474358623,Justdial
+Manbir Garments,Clothing Store,Delhi,"H.No. 913, Sastry Nagar, Delhi",+91 8030195139,Justdial
+Dipta Kirana Store,Grocery Store,Delhi,"636, Sinha Circle, Delhi",+91 8696560723,Sulekha
+Devi Beauty Parlour,Salon & Spa,Chennai,"38/57, Puri Circle, Chennai",+91 9004947431,Sulekha
+Dipta Studio,Photography Studio,Ahmedabad,"85, Pandya Circle, Ahmedabad",+91 7242669250,Google Maps
+Aishani Digital Studio,Photography Studio,Ahmedabad,"348, Kar Road, Ahmedabad",+91 8047297535,Justdial
+Mani Medical Store,Pharmacy,Delhi,"37/575, Mahal Circle, Delhi",+91 9332493584,Google Maps
+Bhavna Cafe,Cafe,Kolkata,"86/65, Mannan Street, Kolkata",+91 9595428202,Google Maps
+Brijesh Coffee House,Cafe,Ahmedabad,"15/747, Jaggi Ganj, Ahmedabad",+91 8208871263,Sulekha
+Anika Electronics,Electronics Store,Lucknow,"199, Kibe Ganj, Lucknow",+91 9349272739,Sulekha
+Chandresh Bakery,Bakery,Pune,"301, Narayanan Marg, Pune",+91 9104819720,Justdial
+Chaudhry Fashion,Clothing Store,Jaipur,"20/826, Sood Chowk, Jaipur",+91 9556782260,Sulekha
+Ryan Coaching Classes,Coaching Center,Bengaluru,"H.No. 40, Kata Zila, Bengaluru",+91 9844917263,Google Maps
+Gill Hardware,Hardware Store,Bengaluru,"20, Tandon Marg, Bengaluru",+91 9324339552,Justdial
+Quincy Tools & Hardware,Hardware Store,Chennai,"H.No. 049, Chhabra, Chennai",+91 8804945972,Google Maps
+Gautami Motors,Automobile Repair,Chennai,"88, Desai Chowk, Chennai",+91 8939286106,Google Maps
+Sidhu Digital World,Electronics Store,Lucknow,"H.No. 31, Gaba Path, Lucknow",,Google Maps
+Kurian Spa,Salon & Spa,Mumbai,"20/549, Gill Ganj, Mumbai",+91 8365091016,Sulekha
+Sane Dhaba,Restaurant,Ahmedabad,"51/61, Dey Street, Ahmedabad",+91 9636899783,Justdial
+Vansha Healthcare,Clinic,Ahmedabad,"046, Sekhon Ganj, Ahmedabad",,Justdial
+Narayan Bakery,Bakery,Ahmedabad,"H.No. 99, Lal Nagar, Ahmedabad",+91 7470750970,Sulekha
+Keer Gym,Gym & Fitness Center,Kolkata,"H.No. 174, Ravi Street, Kolkata",+91 8687483616,Google Maps
+Mukhopadhyay Gym,Gym & Fitness Center,Hyderabad,"14/593, Deol Ganj, Hyderabad",+91 7812328465,Google Maps
+Dua Diner,Restaurant,Chennai,"95, Sinha Marg, Chennai",+91 9835430932,Justdial
+Kota Studio,Photography Studio,Lucknow,"91/878, Brahmbhatt Path, Lucknow",+91 8632777466,Justdial
+Bhatia Fashion,Clothing Store,Chennai,"83/98, Gala Street, Chennai",+91 8288576249,Justdial
+Venkatesh General Store,Grocery Store,Hyderabad,"13, Suresh, Hyderabad",,Justdial
+Uppal Tutorials,Coaching Center,Ahmedabad,"07, Varghese Street, Ahmedabad",,Google Maps
+Shan Bake House,Bakery,Bengaluru,"08/74, Randhawa Nagar, Bengaluru",+91 8321357964,Google Maps
+Aachal Cake Shop,Bakery,Mumbai,"39/106, Bhatt Path, Mumbai",+91 7240960639,Sulekha
+Biswas Garments,Clothing Store,Jaipur,"04, Gole Marg, Jaipur",+91 7389326864,Google Maps
+Salvi Bake House,Bakery,Kolkata,"H.No. 67, Prashad Marg, Kolkata",+91 9473828909,Google Maps
+Zacharia Tutorials,Coaching Center,Jaipur,"512, Ramaswamy Circle, Jaipur",,Google Maps
+Kapoor Digital World,Electronics Store,Kolkata,"H.No. 047, Samra Circle, Kolkata",+91 8986577568,Google Maps
+Karpe Gym,Gym & Fitness Center,Lucknow,"752, Gulati Road, Lucknow",+91 9020149221,Sulekha
+Balay Fitness Center,Gym & Fitness Center,Jaipur,"69/033, Chaudhuri Zila, Jaipur",+91 8556112180,Justdial
+Sekhon Fitness Center,Gym & Fitness Center,Delhi,"03/06, Kaur Chowk, Delhi",+91 9945092478,Google Maps
+Bhalla Tutorials,Coaching Center,Ahmedabad,"843, Nagar, Ahmedabad",+91 9543385821,Sulekha
+Khalsa General Store,Grocery Store,Mumbai,"H.No. 28, Sachdev Ganj, Mumbai",+91 9363191230,Justdial
+Charita Digital World,Electronics Store,Hyderabad,"H.No. 892, Tandon Marg, Hyderabad",+91 7360135006,Google Maps
+Padmanabhan Fashion,Clothing Store,Kolkata,"68/566, Mital Street, Kolkata",+91 7668163788,Sulekha
+Gour Tea Point,Cafe,Lucknow,"73/34, Sheth Street, Lucknow",+91 9312628098,Sulekha
+Sachar Kirana Store,Grocery Store,Jaipur,"88, Rama Street, Jaipur",+91 8234751124,Google Maps
+Kumer Garments,Clothing Store,Jaipur,"517, Chanda Path, Jaipur",+91 9529699226,Sulekha
+Behl Cafe,Cafe,Chennai,"H.No. 69, Baral, Chennai",+91 7914283149,Justdial
+Guha Kirana Store,Grocery Store,Chennai,"83/73, Mitter Path, Chennai",+91 9310174094,Justdial
+Kakar Boutique,Clothing Store,Kolkata,"173, Jayaraman, Kolkata",+91 9217181197,Justdial
+Khatri Studio,Photography Studio,Pune,"54/67, Parmer Circle, Pune",+91 7942520358,Justdial
+Lal Digital Studio,Photography Studio,Ahmedabad,"H.No. 87, Chaudhari Chowk, Ahmedabad",+91 7662180592,Justdial
+Nagarajan Studio,Photography Studio,Jaipur,"556, Kant Nagar, Jaipur",+91 9427786917,Google Maps
+Madhav Kirana Store,Grocery Store,Mumbai,"H.No. 89, Sahni, Mumbai",+91 7328364172,Justdial
+Chakrika Chemist,Pharmacy,Ahmedabad,"536, Korpal, Ahmedabad",+91 7016982135,Google Maps
+Nazareth Bake House,Bakery,Ahmedabad,"H.No. 77, Ganguly Chowk, Ahmedabad",+91 7941252096,Justdial
+Indira Motors,Automobile Repair,Mumbai,"872, Bhargava Circle, Mumbai",+91 8753514888,Google Maps
+Bahadurjit Cake Shop,Bakery,Bengaluru,"00/623, Dora Zila, Bengaluru",+91 7610547941,Google Maps
+Aditya Dhaba,Restaurant,Chennai,"75/09, Subramanian, Chennai",+91 9101481211,Sulekha
+Babu Boutique,Clothing Store,Bengaluru,"H.No. 886, Badal Nagar, Bengaluru",+91 7369153343,Google Maps
+Wason Chemist,Pharmacy,Ahmedabad,"H.No. 08, Gola Marg, Ahmedabad",+91 9413754185,Justdial
+Hredhaan Tutorials,Coaching Center,Hyderabad,"23/39, Krishnan Circle, Hyderabad",+91 9939463148,Justdial
+Irya Tools & Hardware,Hardware Store,Kolkata,"15, Sharaf Marg, Kolkata",+91 7605428430,Justdial
+Yagnesh Fitness Studio,Gym & Fitness Center,Hyderabad,"H.No. 10, Ravi Zila, Hyderabad",+91 8463844995,Justdial
+Ladli Medical Center,Clinic,Lucknow,"70/02, Tata Zila, Lucknow",+91 9270040972,Google Maps
+Narula Garage,Automobile Repair,Delhi,"18/03, Soman Ganj, Delhi",+91 9248175866,Sulekha
+Anika Tea Point,Cafe,Chennai,"H.No. 489, Gola Nagar, Chennai",+91 7966758174,Sulekha
+Divya Supermarket,Grocery Store,Hyderabad,"926, Mistry Zila, Hyderabad",+91 9450189395,Justdial
+Khosla Bake House,Bakery,Jaipur,"68/56, Brar Street, Jaipur",+91 9705338627,Google Maps
+Xiti Motors,Automobile Repair,Lucknow,"H.No. 163, Oak Zila, Lucknow",+91 9306157419,Google Maps
+Mekhala Studio,Photography Studio,Lucknow,"H.No. 477, Parekh Ganj, Lucknow",+91 9958576255,Google Maps
+Keya Academy,Coaching Center,Jaipur,"961, Merchant, Jaipur",+91 8705067912,Google Maps
+Borah Auto Works,Automobile Repair,Hyderabad,"H.No. 426, Ramachandran Street, Hyderabad",+91 8459717292,Justdial
+Patel Mobile Store,Electronics Store,Jaipur,"H.No. 104, Parsa Chowk, Jaipur",+91 8831070604,Sulekha
+Anamika Coffee House,Cafe,Chennai,"126, Vala Chowk, Chennai",+91 7009838560,Sulekha
+Chauhan Unisex Salon,Salon & Spa,Mumbai,"H.No. 158, Nair Zila, Mumbai",+91 8773217897,Google Maps
+Lekha Photography,Photography Studio,Ahmedabad,"H.No. 66, Kibe Zila, Ahmedabad",+91 9519727750,Sulekha
+Rai Medical Store,Pharmacy,Pune,"244, Tailor Road, Pune",+91 9971259479,Justdial
+Madhav Unisex Salon,Salon & Spa,Jaipur,"646, Sule Road, Jaipur",+91 8760461518,Sulekha
+Faraj Electronics,Electronics Store,Hyderabad,"H.No. 37, Hayre, Hyderabad",+91 8517198276,Sulekha
+Chhabra Hardware,Hardware Store,Pune,"406, Rai Path, Pune",+91 8134230332,Justdial
+Forum Kirana Store,Grocery Store,Delhi,"H.No. 69, Mital Street, Delhi",+91 9510212050,Google Maps
+Ekani Kirana Store,Grocery Store,Delhi,"52, Nagar Marg, Delhi",,Sulekha
+Bishakha Motors,Automobile Repair,Mumbai,"35/64, Patla Marg, Mumbai",,Justdial
+Ishaan General Store,Grocery Store,Jaipur,"82/80, Kadakia Chowk, Jaipur",+91 7947840692,Sulekha
+Manne Academy,Coaching Center,Kolkata,"16/724, Krishnan Ganj, Kolkata",+91 7469496535,Sulekha
+Sampath Supermarket,Grocery Store,Pune,"17, Srinivas, Pune",,Sulekha
+Warrior Digital Studio,Photography Studio,Bengaluru,"68/05, Chada Circle, Bengaluru",+91 8128594320,Sulekha
+Kothari Bake House,Bakery,Jaipur,"52/909, Narula Marg, Jaipur",+91 7488949306,Justdial
+Cherian Electronics,Electronics Store,Jaipur,"H.No. 143, Venkataraman Circle, Jaipur",+91 7985428920,Justdial
+Sehgal Photography,Photography Studio,Mumbai,"H.No. 67, Tella, Mumbai",+91 7439360910,Google Maps
+Pai Healthcare,Clinic,Hyderabad,"H.No. 714, Chada Marg, Hyderabad",,Justdial
+Jack Estates,Real Estate Agency,Kolkata,"H.No. 45, Jhaveri Chowk, Kolkata",+91 7624116755,Justdial
+Vasudha Bakery,Bakery,Lucknow,"17, Nagar Chowk, Lucknow",+91 9495987015,Sulekha
+Ekalinga Garage,Automobile Repair,Jaipur,"H.No. 105, Gala Zila, Jaipur",+91 9972153642,Justdial
+Yagnesh Studio,Photography Studio,Mumbai,"825, Sandhu Circle, Mumbai",+91 7384472773,Google Maps
+Turvi Medical Store,Pharmacy,Lucknow,"22, Randhawa Marg, Lucknow",+91 8809052154,Justdial
+Hora Cake Shop,Bakery,Ahmedabad,"96, Agrawal Marg, Ahmedabad",+91 8680375179,Justdial
+Jha Spa,Salon & Spa,Ahmedabad,"H.No. 19, Yadav Zila, Ahmedabad",+91 8356315992,Sulekha
+Rachit Realty,Real Estate Agency,Hyderabad,"H.No. 37, Lala Zila, Hyderabad",+91 8913785909,Sulekha
+Vrishti Bakery,Bakery,Chennai,"59/696, Comar, Chennai",+91 8244684683,Google Maps
+Pandey Boutique,Clothing Store,Jaipur,"92, Chad Road, Jaipur",+91 8601194108,Sulekha
+Krish Garments,Clothing Store,Ahmedabad,"H.No. 341, Prakash Street, Ahmedabad",+91 7554628344,Sulekha
+Lohit Hardware,Hardware Store,Ahmedabad,"69, Rajagopal Street, Ahmedabad",+91 9749419742,Sulekha
+Grewal Restaurant,Restaurant,Mumbai,"82, Ganesan Circle, Mumbai",+91 7758318908,Sulekha
+Vrishti Digital World,Electronics Store,Mumbai,"257, Bera, Mumbai",+91 7198090980,Sulekha
+Andra Motors,Automobile Repair,Lucknow,"23, Tiwari Marg, Lucknow",+91 7021679758,Sulekha
+Warda Bake House,Bakery,Mumbai,"76/772, Balasubramanian Zila, Mumbai",+91 8755547576,Google Maps
+Thomas Hardware,Hardware Store,Pune,"H.No. 438, Ganguly Road, Pune",+91 8718329516,Google Maps
+Tandon Supermarket,Grocery Store,Lucknow,"81/91, Peri Road, Lucknow",+91 8300520357,Justdial
+Benjamin Bake House,Bakery,Ahmedabad,"36/13, Bali Road, Ahmedabad",+91 9241420566,Sulekha
+Shivani Properties,Real Estate Agency,Mumbai,"H.No. 17, Khalsa Zila, Mumbai",+91 8811072390,Google Maps
+Shaurya Auto Works,Automobile Repair,Mumbai,"96/292, Jhaveri Ganj, Mumbai",+91 8421894529,Justdial
+Daniel Academy,Coaching Center,Delhi,"49/82, Master Path, Delhi",+91 9844684289,Justdial
+Bimala Healthcare,Clinic,Mumbai,"12/60, Date Road, Mumbai",+91 9946881176,Sulekha
+Kevin Garage,Automobile Repair,Mumbai,"536, Dhar Chowk, Mumbai",,Google Maps
+Sachdeva Academy,Coaching Center,Bengaluru,"71, Rau Zila, Bengaluru",+91 8847941519,Sulekha
+Mall Properties,Real Estate Agency,Pune,"57/759, Chander Nagar, Pune",+91 7458520279,Sulekha
+Tara Pharmacy,Pharmacy,Kolkata,"H.No. 863, Kakar Marg, Kolkata",+91 9748119963,Justdial
+Loyal Coaching Classes,Coaching Center,Lucknow,"H.No. 45, De Circle, Lucknow",,Justdial
+Oza Cafe,Cafe,Ahmedabad,"00/170, Dugar Zila, Ahmedabad",+91 8230166603,Google Maps
+Shan Auto Works,Automobile Repair,Lucknow,"H.No. 632, Dutt Road, Lucknow",+91 7967842302,Sulekha
+Chander Spa,Salon & Spa,Delhi,"54/152, Randhawa Nagar, Delhi",+91 9568693086,Google Maps
+Kaur Medical Store,Pharmacy,Pune,"11, Kala Nagar, Pune",+91 7017050405,Justdial
+Vansha Gym,Gym & Fitness Center,Chennai,"938, Andra Chowk, Chennai",+91 8412268830,Sulekha
+Oza Hardware,Hardware Store,Jaipur,"H.No. 627, Karnik Zila, Jaipur",,Justdial
+Chakraborty Tools & Hardware,Hardware Store,Delhi,"11/554, Raja Street, Delhi",,Justdial
+Kiaan Bake House,Bakery,Delhi,"H.No. 890, Gala, Delhi",+91 9245659903,Google Maps
+Panchal Mobile Store,Electronics Store,Chennai,"32/697, Chadha Ganj, Chennai",+91 7207331916,Justdial
+Dey Medical Center,Clinic,Pune,"H.No. 965, Murty Marg, Pune",+91 8183342990,Google Maps
+Logan Medical Store,Pharmacy,Ahmedabad,"H.No. 13, Mane Circle, Ahmedabad",+91 7998310887,Justdial
+Mitra Fitness Studio,Gym & Fitness Center,Lucknow,"898, Ramanathan Ganj, Lucknow",+91 8411095332,Sulekha
+Bhagat Digital World,Electronics Store,Chennai,"761, Tata Ganj, Chennai",+91 7658172784,Justdial
+Wable Mobile Store,Electronics Store,Pune,"H.No. 552, Salvi Marg, Pune",+91 9073874357,Sulekha
+Gera Coffee House,Cafe,Hyderabad,"10, Bir, Hyderabad",+91 9575161502,Justdial
+Akshay Spa,Salon & Spa,Lucknow,"006, Mangat Circle, Lucknow",+91 8802513527,Sulekha
+Sagar Boutique,Clothing Store,Hyderabad,"61, Yogi Circle, Hyderabad",+91 7226663627,Sulekha
+Mall Fashion,Clothing Store,Bengaluru,"H.No. 418, Dugal Ganj, Bengaluru",+91 7505065460,Justdial
+Raman Beauty Parlour,Salon & Spa,Ahmedabad,"14/63, Konda Nagar, Ahmedabad",+91 9849664827,Sulekha
+Gabriel Kitchen,Restaurant,Kolkata,"H.No. 799, More Nagar, Kolkata",+91 9154897122,Justdial
+Parth Digital World,Electronics Store,Lucknow,"H.No. 202, Palan Chowk, Lucknow",+91 9219994769,Justdial
+Lad Cafe,Cafe,Kolkata,"524, Balan Zila, Kolkata",,Justdial
+Gautami Supermarket,Grocery Store,Jaipur,"H.No. 81, Bose Road, Jaipur",+91 8517399070,Sulekha
+Watika Medical Store,Pharmacy,Jaipur,"50/79, Pillai Street, Jaipur",+91 8581923703,Justdial
+Nakul Bake House,Bakery,Delhi,"H.No. 913, Agate Circle, Delhi",+91 8022054966,Justdial
+Arora Coffee House,Cafe,Hyderabad,"075, Doctor Marg, Hyderabad",+91 8435769303,Justdial
+Praneel Salon,Salon & Spa,Chennai,"63/53, Nagarajan Marg, Chennai",,Justdial
+Anika Motors,Automobile Repair,Delhi,"51/80, Kapoor Street, Delhi",+91 7571682339,Google Maps
+Batra Fitness Studio,Gym & Fitness Center,Jaipur,"17, Mukhopadhyay Road, Jaipur",+91 8327292543,Google Maps
+Chadha Electronics,Electronics Store,Pune,"70/53, Modi Road, Pune",+91 9893735863,Justdial
+Shetty Academy,Coaching Center,Pune,"H.No. 97, Korpal Ganj, Pune",+91 7674346483,Sulekha
+Matthew Tea Point,Cafe,Delhi,"03, Pal Circle, Delhi",+91 8068135830,Justdial
+Nayak Unisex Salon,Salon & Spa,Chennai,"H.No. 641, Wagle Ganj, Chennai",+91 9003161451,Sulekha
+Saini Beauty Parlour,Salon & Spa,Kolkata,"02, Chander Road, Kolkata",+91 9666498288,Sulekha
+Caleb Tea Point,Cafe,Chennai,"65/71, Chandran, Chennai",+91 7386241270,Justdial
+Deol Spa,Salon & Spa,Bengaluru,"61/990, De Marg, Bengaluru",+91 8370488174,Google Maps
+Manne Academy,Coaching Center,Pune,"H.No. 56, Nadkarni Path, Pune",+91 8760894575,Google Maps
+Magar Tools & Hardware,Hardware Store,Bengaluru,"132, Chopra, Bengaluru",+91 8030869113,Sulekha
+Nachiket Food Court,Restaurant,Kolkata,"775, Dara Marg, Kolkata",+91 9671260324,Sulekha
+Johal Tools & Hardware,Hardware Store,Ahmedabad,"47, Dar Road, Ahmedabad",+91 9752168176,Justdial
+Gautam Electronics,Electronics Store,Delhi,"49/035, Chand Street, Delhi",+91 7900639470,Sulekha
+Parekh Healthcare,Clinic,Bengaluru,"80, Lad Road, Bengaluru",+91 9509774921,Sulekha
+Owen Tools & Hardware,Hardware Store,Delhi,"78, Krish Circle, Delhi",+91 9697758085,Sulekha
+Shere Estates,Real Estate Agency,Mumbai,"H.No. 210, Kapadia Nagar, Mumbai",+91 8393123423,Sulekha
+Hora Realty,Real Estate Agency,Hyderabad,"51, Lad, Hyderabad",+91 8142221401,Justdial
+Falan Realty,Real Estate Agency,Delhi,"H.No. 372, Narula Zila, Delhi",+91 8926555957,Sulekha
+Jason Tutorials,Coaching Center,Pune,"02, Sant, Pune",+91 7677037124,Google Maps
+Taneja Tutorials,Coaching Center,Kolkata,"H.No. 662, Kala Path, Kolkata",+91 8060548356,Justdial
+Rachit Academy,Coaching Center,Chennai,"H.No. 72, Korpal Nagar, Chennai",+91 9574563948,Google Maps
+Chakrika Clinic,Clinic,Bengaluru,"87, Chahal Nagar, Bengaluru",+91 8055442447,Sulekha
+Ati Bake House,Bakery,Ahmedabad,"638, Bahl Ganj, Ahmedabad",+91 9057264293,Justdial
+Lavanya Boutique,Clothing Store,Delhi,"87, Thakkar Path, Delhi",+91 7911658374,Justdial
+Ekanta Garments,Clothing Store,Kolkata,"H.No. 20, Kanda Path, Kolkata",+91 8502293209,Sulekha
+Ayushman Chemist,Pharmacy,Kolkata,"H.No. 785, Kaul, Kolkata",+91 8407837767,Justdial
+Chaudhry Medical Center,Clinic,Kolkata,"348, Kanda Nagar, Kolkata",+91 7427984205,Justdial
+Lipika Cafe,Cafe,Kolkata,"239, Parmer Path, Kolkata",+91 9568670238,Google Maps
+Pandey Beauty Parlour,Salon & Spa,Bengaluru,"92/93, More Chowk, Bengaluru",,Justdial
+Swaminathan General Store,Grocery Store,Bengaluru,"H.No. 103, Kanda, Bengaluru",+91 9872445916,Google Maps
+Vyas Auto Works,Automobile Repair,Kolkata,"05, Jaggi, Kolkata",+91 9961595054,Google Maps
+Oak Restaurant,Restaurant,Pune,"25/002, Dhar, Pune",+91 7298822475,Google Maps
+Indrajit General Store,Grocery Store,Ahmedabad,"H.No. 15, Chaudhuri Marg, Ahmedabad",+91 8702199126,Justdial
+Mittal Kitchen,Restaurant,Mumbai,"H.No. 22, Sur Marg, Mumbai",+91 8383827324,Justdial
+Ghosh Salon,Salon & Spa,Hyderabad,"89/539, Radhakrishnan Street, Hyderabad",+91 7335623526,Justdial
+Damyanti Fitness Studio,Gym & Fitness Center,Chennai,"209, Bali Marg, Chennai",+91 9467927451,Sulekha
+Qabil Motors,Automobile Repair,Bengaluru,"39/17, Narula Street, Bengaluru",+91 8999895199,Google Maps
+Faras Garments,Clothing Store,Kolkata,"H.No. 52, Nayak Zila, Kolkata",+91 8349090750,Sulekha
+Sanya Fashion,Clothing Store,Hyderabad,"H.No. 33, Palla Zila, Hyderabad",+91 7403587276,Sulekha
+Chokshi Cake Shop,Bakery,Kolkata,"00/676, Sachdev Street, Kolkata",+91 7811946302,Sulekha
+Radhakrishnan Salon,Salon & Spa,Hyderabad,"H.No. 86, Srinivas Zila, Hyderabad",+91 9157449537,Google Maps
+Umang Tools & Hardware,Hardware Store,Lucknow,"10, Bahri Road, Lucknow",+91 7178841370,Justdial
+Eiravati Cake Shop,Bakery,Delhi,"H.No. 152, Dyal Marg, Delhi",+91 7232679243,Google Maps
+Falan Fitness Studio,Gym & Fitness Center,Kolkata,"H.No. 99, Balasubramanian Chowk, Kolkata",+91 8862465163,Justdial
+Gala Hardware,Hardware Store,Bengaluru,"62/01, Jha Path, Bengaluru",,Google Maps
+Ranveer Kitchen,Restaurant,Chennai,"88/444, Char Ganj, Chennai",+91 9586362163,Sulekha
+Ramaswamy Medical Center,Clinic,Jaipur,"87/20, Aggarwal Path, Jaipur",+91 7270093956,Sulekha
+Prisha Tools & Hardware,Hardware Store,Lucknow,"H.No. 97, Chatterjee Ganj, Lucknow",+91 7258977017,Google Maps
+Jhaveri Coffee House,Cafe,Bengaluru,"417, Morar Zila, Bengaluru",+91 9500995175,Sulekha
+Sinha Motors,Automobile Repair,Delhi,"41, Ram Circle, Delhi",+91 9773741278,Google Maps
+Prabhakar General Store,Grocery Store,Delhi,"52, Basu Chowk, Delhi",+91 8995017212,Justdial
+Adya Auto Works,Automobile Repair,Bengaluru,"43, Bhatia Road, Bengaluru",+91 9298611487,Google Maps
+Chatterjee Fashion,Clothing Store,Kolkata,"H.No. 586, Karan, Kolkata",+91 9456845227,Sulekha
+Darsh Photography,Photography Studio,Delhi,"68/79, Soni Ganj, Delhi",+91 7891278662,Google Maps
+Chandani Medical Center,Clinic,Lucknow,"08, Varughese, Lucknow",+91 8180017266,Justdial
+Manan Properties,Real Estate Agency,Lucknow,"22, Hans Ganj, Lucknow",+91 9534023487,Sulekha
+Jonathan Motors,Automobile Repair,Delhi,"16, Divan Ganj, Delhi",+91 7144311610,Google Maps
+Nagarajan Food Court,Restaurant,Ahmedabad,"11/686, Nanda Circle, Ahmedabad",+91 7586414635,Sulekha
+Anya Coffee House,Cafe,Pune,"09, Virk, Pune",+91 9360251934,Justdial
+Chowdhury Realty,Real Estate Agency,Delhi,"22, Chaudhry, Delhi",+91 9955416903,Google Maps
+Hitesh Supermarket,Grocery Store,Jaipur,"H.No. 85, Lalla Marg, Jaipur",,Justdial
+Sunder Properties,Real Estate Agency,Chennai,"97/02, Rau Road, Chennai",+91 8496611044,Justdial
+Ratti Kirana Store,Grocery Store,Chennai,"H.No. 653, Soman Nagar, Chennai",+91 8520158270,Sulekha
+Amruta Fashion,Clothing Store,Hyderabad,"H.No. 544, Swamy Road, Hyderabad",,Justdial
+Kari Kitchen,Restaurant,Hyderabad,"475, Saha Road, Hyderabad",+91 7004796154,Justdial
+Gaurav Realty,Real Estate Agency,Chennai,"36, Varty Chowk, Chennai",+91 7780465026,Justdial
+Bhalla Kitchen,Restaurant,Bengaluru,"21/48, Deshmukh Marg, Bengaluru",,Google Maps
+Ghose Digital Studio,Photography Studio,Jaipur,"303, Shan Nagar, Jaipur",+91 8502221128,Sulekha
+Chandresh Beauty Parlour,Salon & Spa,Jaipur,"34/578, Dasgupta Marg, Jaipur",,Sulekha
+Azaan Restaurant,Restaurant,Pune,"H.No. 79, Goel Chowk, Pune",+91 9788251288,Justdial
+Palla Medical Store,Pharmacy,Kolkata,"H.No. 24, Mane Zila, Kolkata",+91 7244736569,Google Maps
+Ayaan Cafe,Cafe,Lucknow,"H.No. 293, Kar Ganj, Lucknow",+91 8473171086,Justdial
+Luthra Bakery,Bakery,Delhi,"68/007, Ghose Street, Delhi",+91 8518244735,Google Maps
+Kapur Salon,Salon & Spa,Bengaluru,"H.No. 94, Sampath Road, Bengaluru",+91 9806852964,Google Maps
+Palla Beauty Parlour,Salon & Spa,Hyderabad,"43, Mittal Chowk, Hyderabad",+91 9218949169,Justdial
+Mekhala Properties,Real Estate Agency,Bengaluru,"H.No. 858, Mandal, Bengaluru",+91 8821782105,Google Maps
+Chanchal Spa,Salon & Spa,Ahmedabad,"15, Nair Road, Ahmedabad",+91 7202039135,Google Maps
+Lal Kirana Store,Grocery Store,Pune,"43/283, Raval Nagar, Pune",+91 9112521015,Sulekha
+Ekaja Academy,Coaching Center,Chennai,"07/446, Rama Marg, Chennai",+91 7647994670,Justdial
+Balendra Coffee House,Cafe,Bengaluru,"H.No. 38, Parmer Chowk, Bengaluru",+91 8510516637,Google Maps
+Mital Digital Studio,Photography Studio,Lucknow,"824, Sinha Zila, Lucknow",+91 7096660165,Sulekha
+Kuruvilla Bakery,Bakery,Bengaluru,"82/513, Kapoor Path, Bengaluru",+91 7901046681,Justdial
+Damyanti Digital Studio,Photography Studio,Bengaluru,"H.No. 54, Menon, Bengaluru",+91 7805394840,Justdial
+Dalal Fashion,Clothing Store,Pune,"09, Bobal, Pune",+91 8255027987,Justdial
+Urmi Kirana Store,Grocery Store,Jaipur,"16/84, Bhagat Marg, Jaipur",+91 8781412559,Justdial
+Devan Tea Point,Cafe,Kolkata,"569, Dhar Chowk, Kolkata",+91 8127384141,Sulekha
+Gole Gym,Gym & Fitness Center,Pune,"H.No. 752, Bhardwaj Path, Pune",,Sulekha
+Seth General Store,Grocery Store,Mumbai,"H.No. 32, Dutt, Mumbai",+91 8545679393,Justdial
+Vrishti Cafe,Cafe,Lucknow,"966, Sanghvi Marg, Lucknow",+91 9152441608,Justdial
+Vansha Tools & Hardware,Hardware Store,Mumbai,"H.No. 083, Atwal Path, Mumbai",+91 9749932768,Google Maps
+Wali Kirana Store,Grocery Store,Lucknow,"003, Padmanabhan Ganj, Lucknow",+91 9994987537,Google Maps
+Devika Chemist,Pharmacy,Kolkata,"H.No. 689, Ganesh Road, Kolkata",+91 9741674517,Sulekha
+Bath Clinic,Clinic,Bengaluru,"H.No. 47, Viswanathan Circle, Bengaluru",+91 7762288861,Google Maps
+Saraf Kitchen,Restaurant,Jaipur,"25/753, Raval Street, Jaipur",+91 9012336406,Google Maps
+Kari Gym,Gym & Fitness Center,Bengaluru,"230, Thaman, Bengaluru",,Sulekha
+Omkaar Chemist,Pharmacy,Bengaluru,"H.No. 06, Warrior Road, Bengaluru",+91 7237658967,Sulekha
+Chanakya Garage,Automobile Repair,Pune,"10/016, Rai Chowk, Pune",+91 7447130644,Sulekha
+Krishnan Bakery,Bakery,Ahmedabad,"23, Mitra Nagar, Ahmedabad",+91 8841490440,Justdial
+Osha Supermarket,Grocery Store,Lucknow,"84/992, Cheema Marg, Lucknow",+91 9256048602,Google Maps
+Dalal Digital World,Electronics Store,Mumbai,"H.No. 11, Issac Chowk, Mumbai",,Sulekha
+Ryan Fitness Center,Gym & Fitness Center,Lucknow,"35/64, Baral Street, Lucknow",+91 8625828434,Justdial
+Watika Medical Store,Pharmacy,Delhi,"75/300, Choudhry Zila, Delhi",+91 7550193386,Google Maps
+Dixit Realty,Real Estate Agency,Kolkata,"H.No. 811, Kashyap Road, Kolkata",+91 7817618885,Justdial
+Tanmayi Clinic,Clinic,Delhi,"H.No. 70, Ghosh Zila, Delhi",+91 9400565004,Google Maps
+Mannan Photography,Photography Studio,Pune,"H.No. 56, Chandran Zila, Pune",+91 8229923294,Justdial
+Chakradev Cafe,Cafe,Lucknow,"255, Loyal Chowk, Lucknow",+91 9618814379,Justdial
+Pradhan Kitchen,Restaurant,Kolkata,"H.No. 21, Ratta Marg, Kolkata",,Google Maps
+Tanmayi Digital Studio,Photography Studio,Pune,"76, Chowdhury Street, Pune",,Google Maps
+Bhargava Fitness Center,Gym & Fitness Center,Lucknow,"169, Sarma Chowk, Lucknow",,Sulekha
+Raghavan Electronics,Electronics Store,Lucknow,"H.No. 90, Subramanian Street, Lucknow",,Justdial
+Chowdhury Kirana Store,Grocery Store,Hyderabad,"70, Lal Zila, Hyderabad",+91 9391980795,Justdial
+Arora Auto Works,Automobile Repair,Chennai,"89/935, Virk Circle, Chennai",+91 8287484943,Sulekha
+Girish Realty,Real Estate Agency,Ahmedabad,"37/562, Bhagat Circle, Ahmedabad",+91 8401121485,Justdial
+Dugar Realty,Real Estate Agency,Lucknow,"77/21, Nagi Chowk, Lucknow",+91 7678132391,Sulekha
+Narayanan Clinic,Clinic,Delhi,"H.No. 08, Radhakrishnan Ganj, Delhi",+91 8302471727,Justdial
+Neha Digital Studio,Photography Studio,Chennai,"H.No. 779, Chakrabarti Chowk, Chennai",+91 7605858630,Justdial
+Sekhon Gym,Gym & Fitness Center,Bengaluru,"H.No. 17, Chauhan Nagar, Bengaluru",+91 8523944524,Google Maps
+Netra Realty,Real Estate Agency,Chennai,"H.No. 880, Modi Zila, Chennai",+91 9187122675,Google Maps
+Jhaveri Motors,Automobile Repair,Kolkata,"75/503, Narula Chowk, Kolkata",+91 7199860738,Sulekha
+Patla Bake House,Bakery,Jaipur,"71/130, Pant Path, Jaipur",+91 8560649171,Google Maps
+Bishakha Bakery,Bakery,Mumbai,"H.No. 10, Tailor Street, Mumbai",+91 8471432659,Google Maps
+Logan General Store,Grocery Store,Hyderabad,"H.No. 493, Dara Ganj, Hyderabad",+91 9238467067,Google Maps
+Kale Properties,Real Estate Agency,Bengaluru,"35, Sachdeva Zila, Bengaluru",+91 9995518783,Google Maps
+Dasgupta Bake House,Bakery,Jaipur,"79, Desai Circle, Jaipur",+91 7905078116,Justdial
+Agrawal Studio,Photography Studio,Mumbai,"08/69, Trivedi Chowk, Mumbai",+91 7485684264,Sulekha
+Peter Tutorials,Coaching Center,Delhi,"21/699, Thaman Path, Delhi",+91 9574747498,Sulekha
+Sahota Photography,Photography Studio,Kolkata,"34/65, Sethi Road, Kolkata",+91 8591184976,Sulekha
+Kiaan Boutique,Clothing Store,Mumbai,"98, Murthy Road, Mumbai",+91 9025889777,Sulekha
+Teerth Medical Store,Pharmacy,Pune,"945, Gokhale Street, Pune",+91 8086241139,Google Maps
+Naidu Medical Store,Pharmacy,Ahmedabad,"15/879, Sahni, Ahmedabad",,Justdial
+Sami Healthcare,Clinic,Chennai,"H.No. 810, Dhillon Marg, Chennai",+91 9847239878,Google Maps
+Bhalla Medical Center,Clinic,Ahmedabad,"424, Dhingra Road, Ahmedabad",+91 8982394614,Google Maps
+David Supermarket,Grocery Store,Ahmedabad,"805, Chaudry Chowk, Ahmedabad",+91 9488777698,Justdial
+Udarsh Realty,Real Estate Agency,Mumbai,"840, Ram Marg, Mumbai",+91 8660662872,Google Maps
+Omaja Cafe,Cafe,Jaipur,"00/43, Savant, Jaipur",+91 9729336309,Google Maps
+Pillai General Store,Grocery Store,Mumbai,"89/33, Sen Road, Mumbai",+91 9308936097,Justdial
+Borde Fitness Center,Gym & Fitness Center,Ahmedabad,"281, Baria Marg, Ahmedabad",+91 9232014005,Google Maps
+Mallick Gym,Gym & Fitness Center,Ahmedabad,"42/29, Ahluwalia Road, Ahmedabad",+91 8555186923,Sulekha
+Ganga Fitness Studio,Gym & Fitness Center,Kolkata,"20/259, Mitra Nagar, Kolkata",+91 9257221847,Justdial
+Vritti Restaurant,Restaurant,Pune,"H.No. 583, Verma Street, Pune",+91 9555338091,Google Maps
+Ekansh Garage,Automobile Repair,Hyderabad,"688, Chanda Marg, Hyderabad",+91 8681912628,Sulekha
+Ikshita Restaurant,Restaurant,Ahmedabad,"555, Kamdar Road, Ahmedabad",+91 7027739329,Justdial
+Andra Coaching Classes,Coaching Center,Chennai,"H.No. 573, Kohli, Chennai",+91 9790455706,Justdial
+Nagi Medical Center,Clinic,Hyderabad,"16, Zachariah Road, Hyderabad",+91 9701191737,Justdial
+Barkha Tutorials,Coaching Center,Delhi,"58/87, Bassi Chowk, Delhi",+91 9763259051,Sulekha
+Hans Garage,Automobile Repair,Lucknow,"H.No. 81, Ganesh Zila, Lucknow",+91 8578518367,Justdial
+Bhatti Medical Center,Clinic,Kolkata,"361, Yogi Ganj, Kolkata",+91 9924195389,Justdial
+Radhika General Store,Grocery Store,Bengaluru,"20/750, Borah Zila, Bengaluru",+91 9629188647,Justdial
+Chatura Motors,Automobile Repair,Kolkata,"H.No. 81, Kari, Kolkata",,Justdial
+Reddy Medical Center,Clinic,Chennai,"76, Mutti Marg, Chennai",+91 7115786418,Sulekha
+Ramachandran Tutorials,Coaching Center,Hyderabad,"18/091, Bath, Hyderabad",+91 9248980075,Sulekha
+Parmar Tea Point,Cafe,Ahmedabad,"14/49, Manda Zila, Ahmedabad",+91 7557096194,Sulekha
