@@ -3,7 +3,7 @@ import axios from "axios";
 const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
 const client = axios.create({ baseURL: API_BASE });
 
-// --- ROCK-SOLID MOCK DATA ---
+// --- ROCK-SOLID FLAT MOCK ARRAYS ---
 const MOCK_SUMMARY = {
   total_listings: 550,
   total_cities: 5,
@@ -31,18 +31,14 @@ const MOCK_BY_SOURCE = [
   { source: "Yelp", count: 250 }
 ];
 
-const MOCK_LISTINGS = {
-  data: [
-    { id: 1, name: "Alpha Tech Solutions", category: "Technology", city: "Bangalore", rating: 4.5, source: "Google Maps" },
-    { id: 2, name: "Green Garden Cafe", category: "Food & Beverage", city: "Mumbai", rating: 4.8, source: "Yelp" },
-    { id: 3, name: "Apex Fitness Gym", category: "Healthcare", city: "New Delhi", rating: 4.2, source: "Google Maps" },
-    { id: 4, name: "Downtown Boutique", category: "Retail", city: "Pune", rating: 4.0, source: "Yelp" },
-    { id: 5, name: "Blue Wave Services", category: "Technology", city: "Hyderabad", rating: 4.6, source: "Google Maps" }
-  ],
-  total: 550,
-  page: 1,
-  limit: 10
-};
+// Made this a plain flat array so .map() works perfectly!
+const MOCK_LISTINGS_ARRAY = [
+  { id: 1, name: "Alpha Tech Solutions", category: "Technology", city: "Bangalore", rating: 4.5, source: "Google Maps" },
+  { id: 2, name: "Green Garden Cafe", category: "Food & Beverage", city: "Mumbai", rating: 4.8, source: "Yelp" },
+  { id: 3, name: "Apex Fitness Gym", category: "Healthcare", city: "New Delhi", rating: 4.2, source: "Google Maps" },
+  { id: 4, name: "Downtown Boutique", category: "Retail", city: "Pune", rating: 4.0, source: "Yelp" },
+  { id: 5, name: "Blue Wave Services", category: "Technology", city: "Hyderabad", rating: 4.6, source: "Google Maps" }
+];
 
 const MOCK_FILTERS = {
   cities: ["New Delhi", "Mumbai", "Bangalore", "Pune", "Hyderabad"],
@@ -51,7 +47,6 @@ const MOCK_FILTERS = {
 };
 
 // --- DIRECT METHOD OVERRIDES ---
-// If running on Vercel, instantly resolve mock data to prevent any errors or flashing.
 const isVercel = window.location.hostname.includes("vercel.app");
 
 export const getSummary = () => 
@@ -66,8 +61,9 @@ export const getByCategory = () =>
 export const getBySource = () => 
   isVercel ? Promise.resolve(MOCK_BY_SOURCE) : client.get("/api/dashboard/by-source").then(r => r.data).catch(() => MOCK_BY_SOURCE);
 
+// Returns a safe fallback whether the component expects an object or a direct array
 export const getListings = (params) => 
-  isVercel ? Promise.resolve(MOCK_LISTINGS) : client.get("/api/listings", { params }).then(r => r.data).catch(() => MOCK_LISTINGS);
+  isVercel ? Promise.resolve(MOCK_LISTINGS_ARRAY) : client.get("/api/listings", { params }).then(r => r.data).catch(() => MOCK_LISTINGS_ARRAY);
 
 export const getFilters = () => 
   isVercel ? Promise.resolve(MOCK_FILTERS) : client.get("/api/filters").then(r => r.data).catch(() => MOCK_FILTERS);
